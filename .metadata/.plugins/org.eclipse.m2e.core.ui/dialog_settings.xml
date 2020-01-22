@@ -33,6 +33,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\AA_Sample_Kiran"/>
 			<item value="C:\AA_Batch\AA_ILP1"/>
 			<item value="C:\AA_Batch"/>
 		</list>
