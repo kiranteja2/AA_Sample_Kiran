@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="pack.AA_TN_PDL">
+        <methods>
+          <include name="NewLoanMultipledisbursement_AgestoreVoid"/>
+          <include name="NewLoan_AgeStore_BuyBack"/>
+          <include name="PartialPayment_BuyBackChange_Void"/>
+          <include name="VerifyLoanAmount"/>
+          <include name="PartialPayment_BuyBack_Void"/>
+          <include name="tearDown"/>
+          <include name="Partialpayment_agestorevoid"/>
+          <include name="PartialPayment_BuyBack"/>
+          <include name="NewLoanMultiDisb_Void"/>
+          <include name="Rescind_AgeStore"/>
+          <include name="Prenotedeposit_Verification"/>
+          <include name="initialize"/>
+          <include name="quit"/>
+          <include name="BorrowerNewLoan_Rule"/>
+          <include name="NewLoan_Deposit_Return_Prenotedeposit"/>
+          <include name="Newloan_MultipullDisb"/>
+          <include name="setup_Grid"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- pack.AA_TN_PDL -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

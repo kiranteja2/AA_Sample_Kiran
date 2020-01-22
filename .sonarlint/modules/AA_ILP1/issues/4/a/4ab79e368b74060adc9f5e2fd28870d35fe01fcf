@@ -1,0 +1,44 @@
+
+fsquid:S1192-"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(ËøÇªıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç…“†úÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿ†£úÿÿÿÿ
+bsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.( „Êº
+bsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.( „Êº
+i
+squid:S134r"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+i
+squid:S134|"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+j
+squid:S134†"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+j
+squid:S134‘"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(äŞÆÿÿÿÿÿ
+e
+squid:S134™"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Èá©š
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÔ¸¤şÿÿÿÿ
+`squid:S1132I"IMove the "ILP" string literal on the left side of this string comparison.(Ò²¿Ä
+`squid:S1132Y"IMove the "ILP" string literal on the left side of this string comparison.(Ò²¿Ä
+`squid:S1132d"IMove the "ILP" string literal on the left side of this string comparison.(Ò²¿Ä
+ squid:MethodCyclomaticComplexity"bThe Cyclomatic Complexity of this method "Void_Payment" is 12 which is greater than 10 authorized.(ƒˆ·Ï
+csquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ƒˆ·Ï
+Hsquid:S1481",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ
+Ksquid:S1481"/Remove this unused "TenderType" local variable.(ÊŞ³¨ÿÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ƒˆ·Ï
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—ƒ£½
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒˆ·Ï
+Fsquid:S1172"/Remove this unused method parameter "FileName".(ƒˆ·Ï
+Asquid:S1166w"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ
+Bsquid:S1166"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ
+Bsquid:S1166‹"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ƒˆ·Ï
+Zsquid:S1854">Remove this useless assignment to local variable "TenderType".(ÊŞ³¨ÿÿÿÿÿ
+Wsquid:S1854";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒˆ·Ï
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒˆ·Ï
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ

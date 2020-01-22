@@ -1,0 +1,68 @@
+
+nsquid:S11928"RDefine a constant instead of duplicating this literal "Clicked on Assign" 4 times.(ëøòçúÿÿÿÿ
+^squid:S11927"GDefine a constant instead of duplicating this literal "Assign" 3 times.(¶ÂÆ
+ƒsquid:S1192{"lDefine a constant instead of duplicating this literal "//input[(@type='submit') and (@value='Ok')]" 6 times.(–¤Å«
+gsquid:S1192,"KDefine a constant instead of duplicating this literal "mainFrame" 16 times.(ËøÇªıÿÿÿÿ
+¨squid:S1192™"Define a constant instead of duplicating this literal "/html/body/form/table/tbody/tr/td/table/tbody/tr/td/table[2]/tbody/tr/td/input" 4 times.(ÂÈƒ°
+squid:S1192?"hDefine a constant instead of duplicating this literal "Count of Dollar Coins is entered as 500" 3 times.(¸ÅŞµ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç…“†úÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿ†£úÿÿÿÿ
+asquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(öÂ÷g
+gsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(É±©Áıÿÿÿÿ
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(¬è¼ùÿÿÿÿ
+asquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(öÂ÷g
+bsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(‡›‹æ
+gsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(É±©Áıÿÿÿÿ
+gsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(¬è¼ùÿÿÿÿ
+bsquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(ˆºÈÈ
+hsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(É±©Áıÿÿÿÿ
+hsquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(¬è¼ùÿÿÿÿ
+csquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(ıÅ‹ƒ
+hsquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(¯ø›Óøÿÿÿÿ
+hsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(Š‘¤æÿÿÿÿÿ
+bsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(öÂ÷g
+hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(É±©Áıÿÿÿÿ
+hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(¬è¼ùÿÿÿÿ
+bsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(öÂ÷g
+hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(ÀÊ²Úùÿÿÿÿ
+hsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(Š‘¤æÿÿÿÿÿ
+i
+squid:S134n"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+d
+squid:S134{"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(–¤Å«
+j
+squid:S134Ò"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+e
+squid:S134å"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(–¤Å«
+j
+squid:S134ˆ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+j
+squid:S134—"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ç¥õ‰ıÿÿÿÿ
+j
+squid:S134¦"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ç¥õ‰ıÿÿÿÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÔ¸¤şÿÿÿÿ
+ squid:MethodCyclomaticComplexity"bThe Cyclomatic Complexity of this method "Drawerassign" is 11 which is greater than 10 authorized.(Åçb
+bsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Åçb
+Hsquid:S1481",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ
+Ksquid:S1481"/Remove this unused "TenderType" local variable.(ÊŞ³¨ÿÿÿÿÿ
+Esquid:S1481".Remove this unused "ProductID" local variable.(œñ†í
+hsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(Åçb
+esquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åçb
+Esquid:S1172"/Remove this unused method parameter "FileName".(Åçb
+Asquid:S1166H"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ
+Asquid:S1166s"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ
+Bsquid:S1166 "%Either log or rethrow this exception.(šıš´ıÿÿÿÿ
+Bsquid:S1166×"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ
+Bsquid:S1166"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ
+]squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Åçb
+Tsquid:S1854"=Remove this useless assignment to local variable "ProductID".(œñ†í
+Zsquid:S1854">Remove this useless assignment to local variable "TenderType".(ÊŞ³¨ÿÿÿÿÿ
+Wsquid:S1854";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åçb
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åçb
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+tsquid:S00117Š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ê¸Ğüÿÿÿÿ
