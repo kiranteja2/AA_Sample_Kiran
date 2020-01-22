@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;LoanStatus_AfterACHPmt_ExcludingNSFFee.java&apos; to &apos;AA_ILP/src/main/java/pack&apos;&#x0D;&#x0A;- Original project: &apos;AA_PDL&apos;&#x0D;&#x0A;- Destination element: &apos;AA_ILP/src/main/java/pack&apos;&#x0D;&#x0A;- Original element: &apos;pack.LoanStatus_AfterACHPmt_ExcludingNSFFee.java&apos;" description="Copy compilation unit" destination="=AA_ILP/src\/main\/java&lt;pack" element1="/src\/main\/java&lt;pack{LoanStatus_AfterACHPmt_ExcludingNSFFee.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1576476922106" units="1" version="1.0"/>
+</session>

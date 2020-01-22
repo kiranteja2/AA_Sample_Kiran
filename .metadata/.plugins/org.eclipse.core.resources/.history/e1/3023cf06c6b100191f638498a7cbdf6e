@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <!-- <listeners>
+        <listener class-name="pack.AnnotationTransformer"/>
+  </listeners>-->
+   <test thread-count="5" name="Test">
+  <groups>																																																	
+  <run>
+
+    
+   <!-- kiran group--> 
+<!--  <include name="groups="kiran_CO_ILP_Smoke"/>  -->
+<!-- <include name="kiran_CO_ILP"/>  -->
+<!-- <include name="kiran_FL_ILP"/>  -->  
+<!-- <include name="leela_CO_ILP"/> -->
+  <!--  <include name="venkat_CO_ILP"/> -->  
+<<<<<<< HEAD:.metadata/.plugins/org.eclipse.core.resources/.history/56/b09a5738d0c3001917afd43ec0f87d2f
+      <include name="venkat_OH_ILP"/>  
+    <!--   <include name="venkat_OH_ILP_Prod"/>  -->
+   <!--  <include name="venkat_OH_ILP_Smoke"/>  -->  
+   <!--   <include name="venkat_OH_ILP_Smoke_Prod"/>  -->
+=======
+    <include name="venkat_OH_ILP"/> 
+  <!--  <include name="venkat_OH_ILP_Smoke"/>   -->
+>>>>>>> 6eee94d330356e1dc5d92f97e7c38f4632c5904c:.metadata/.plugins/org.eclipse.core.resources/.history/e1/3023cf06c6b100191f638498a7cbdf6e
+<!-- <include name="leela_CO_ILP"/>  -->
+ <!-- <include name="venkat_CO_ILP"/> -->
+    <!--  <include name="venkat_OH_ILP"/>  --> 
+<!-- <include name="leela_OH_ILP_Prod2"/>  -->
+<!-- <include name="leela_FL_ILP_Smoke"/>  -->
+<!--   <include name="venkat_OH_ILP"/>  -->
+<!-- <include name="leela_OH_ILP"/>  -->
+
+
+
+
+       </run>
+  </groups>
+   <classes>
+      <class name="pack.AA_CO_ILP"/>
+      <class name="pack.AA_FL_ILP"/>
+        <class name="pack.AA_OH_ILP"/>
+<<<<<<< HEAD:.metadata/.plugins/org.eclipse.core.resources/.history/56/b09a5738d0c3001917afd43ec0f87d2f
+                <class name="pack.AA_ILP"/>
+         <class name="pack.AA_OH_ILP_Prod"/>
+          <class name="pack.AA_OH_ILP_Smoke"/> 
+          <class name="pack.AA_OH_ILP_Smoke_Prod"/>
+         <class name="pack.AA_FL_ILP_Smoke"/>
+          
+
+=======
+         <class name="pack.AA_FL_ILP_Smoke"/>
+          <class name="pack.AA_OH_ILP_Prod"/>
+>>>>>>> 6eee94d330356e1dc5d92f97e7c38f4632c5904c:.metadata/.plugins/org.eclipse.core.resources/.history/e1/3023cf06c6b100191f638498a7cbdf6e
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

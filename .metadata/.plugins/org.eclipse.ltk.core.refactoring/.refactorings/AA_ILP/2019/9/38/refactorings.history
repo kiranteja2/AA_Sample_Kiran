@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;pack.ACH_Clear_History.java&apos;&#x0D;&#x0A;- Original project: &apos;AA_ILP&apos;&#x0D;&#x0A;- Destination element: &apos;pack.ACH_Clear_History.java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     pack.Payliance_OriginationFile.java&#x0D;&#x0A;     pack.Payliance_OriginationFile_PPN.java" description="Copy compilation units" destination="=AA_PDL/src\/main\/java&lt;pack{ACH_Clear_History.java" element1="/src\/main\/java&lt;pack{Payliance_OriginationFile.java" element2="/src\/main\/java&lt;pack{Payliance_OriginationFile_PPN.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1568699085625" units="2" version="1.0"/>
+</session>
