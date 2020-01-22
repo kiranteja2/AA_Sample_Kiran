@@ -8,8 +8,7 @@ public class sample {
 	public void Test2()
 	{
 		Assert.assertEquals(true, false);
-		Assert.assertTrue(false);
-		Assert.assertFalse(false);
+		//Assert.assertTrue(false);
 	}
 
 }
